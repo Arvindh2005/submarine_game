@@ -1,0 +1,7 @@
+Mouse Click to start the game
+
+press up, down, right, left to control the submarine
+
+press p and r to pause and resume
+
+most importantly install pygame to proceed.
